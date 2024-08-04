@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Mateus! 👋
 
-<!--
-**MateusFonseca19/MateusFonseca19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Front-end development student;
+* Participating in the Oracle Next Education - ONE program;
+* 🌱 I’m currently learning to program using the JavaScript language
+* 📫 How to reach me: e-mail: rodriguesmateusmp@hotmail.com and WhatsApp +55 (65) 99210-5074.
+  
+## Languages ​​and tools
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
